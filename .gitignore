@@ -1,0 +1,16 @@
+﻿ClientTeste/__history
+*.dcu
+exe/cache
+fontes/__history
+projeto/__history
+exe/projWhats.zip
+exe/projWhats.exe
+exe/CEF4Bin.rar
+ClientTeste/projeto/Win32/Debug/projTeste.exe
+ClientTeste
+exe/locales
+exe/User Data
+exe/swiftshader
+exe/libcef.dll
+exe/libcef.lib
+exe/cef_sandbox.lib

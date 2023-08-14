@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/06 13:42:23.000.893,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 07:33:27.000.156,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 07:34:44.000.292,D:\Projetos\Delphi\ServidorMensagemWhats\fontes\uMain.dfm=D:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/03 07:34:44.000.292,D:\Projetos\Delphi\ServidorMensagemWhats\fontes\uMain.pas=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 07:35:25.000.662,D:\Projetos\Delphi\ServidorMensagemWhats\projeto\projWhats.dproj=D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/03 07:38:52.000.516,=D:\Projetos\Delphi\ServidorMensagemWhats\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 07:39:09.000.677,D:\Projetos\Delphi\ServidorMensagemWhats\fontes\uMensagem.pas=D:\Projetos\Delphi\ServidorMensagemWhats\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 08:16:57.000.549,=D:\Projetos\Delphi\ServidorMensagemWhats\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 08:17:55.000.783,D:\Projetos\Delphi\ServidorMensagemWhats\fontes\DmWhats.dfm=D:\Projetos\Delphi\ServidorMensagemWhats\projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/04/03 08:17:55.000.783,D:\Projetos\Delphi\ServidorMensagemWhats\fontes\DmWhats.pas=D:\Projetos\Delphi\ServidorMensagemWhats\projeto\Unit1.pas</Transaction>
+    <Transaction>2023/08/14 15:30:22.213,D:\Projetos\Delphi\ServidorMensagemWhats\fontes\DmWhats.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
